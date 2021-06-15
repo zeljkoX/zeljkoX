@@ -14,8 +14,7 @@ Excited about serverless.
 
 I am working with 3rd party teams in order to guide them on they road for better React.js/React Native development.
 
-Feel free to ping me about software develompment consultance or development.
-
+Feel free to ping me about software development or Consulting.
 
 - 🔭 I’m currently working on React.js app that heaavily uses leaflet.js 
 - Languages/tools: JavaScript, TypeScript, React.js, React Native, Node.js, Spring Boot, SQL, Solidity...
