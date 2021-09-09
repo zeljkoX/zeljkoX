@@ -18,7 +18,7 @@ Feel free to ping me about software development or Consulting.
 
 - 🔭 I’m currently working on React.js app that heaavily uses leaflet.js 
 - Languages/tools: JavaScript, TypeScript, React.js, React Native, Node.js, Spring Boot, SQL, Solidity...
-- 🌱 I’m currently learning about servereless technologies: Labmdas, Api Gateway, DynamoDB, AppSync, Cognito, Step Functions, CDK
+- 🌱 I’m currently learning about servereless technologies: Lambda, Api Gateway, DynamoDB, AppSync, Cognito, Step Functions, CDK
 - AWS SAA-C02 Certified
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: https://twitter.com/Zeljko_Markovic
