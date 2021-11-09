@@ -16,7 +16,7 @@ I am working with 3rd party teams in order to guide them on they road for better
 
 Feel free to ping me about software development or Consulting.
 
-- 🔭 I’m currently working on React.js app that heaavily uses leaflet.js 
+- 🔭 I’m currently working on serverless project by using Node.js, AWS services and Serverless Framework
 - Languages/tools: JavaScript, TypeScript, React.js, React Native, Node.js, Spring Boot, SQL, Solidity...
 - 🌱 I’m currently learning about servereless technologies: Lambda, Api Gateway, DynamoDB, AppSync, Cognito, Step Functions, CDK
 - AWS SAA-C02 Certified
